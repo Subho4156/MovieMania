@@ -80,11 +80,12 @@ A full-stack Netflix-style streaming web app built with **React**, **Node.js**, 
 3. **Set up environment variables** in `backend/.env`:
    ```
    MONGO_URI=your_mongodb_connection
+   PORT= your_backend_port_number
    JWT_SECRET=your_jwt_secret
    TMDB_API_KEY=your_tmdb_api_key
    GMAIL_USER=your_email@gmail.com
    GMAIL_PASS=your_app_password
-   CLIENT=url_for_forgort
+   CLIENT=url_for_forgot_password_link
 
 4. **Run the app**:
 
