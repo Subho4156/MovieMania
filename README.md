@@ -51,16 +51,32 @@ A full-stack Netflix-style streaming web app built with **React**, **Node.js**, 
 - src/store/ - Uses AuthStore and contentStore for easy usage.
 - public - To access custom-designed images.
 
-## 📷 Screenshots
 
 ### 🖥️ Desktop View
-MovieMania/PC/Screenshot 2025-05-16 220831.png
-MovieMania/PC/Screenshot 2025-05-16 220332.png
-MovieMania/PC/Screenshot 2025-05-16 220431.png
-MovieMania/PC/Screenshot 2025-05-16 220753.png
-MovieMania/PC/Screenshot 2025-05-16 220624.png
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/PC/Screenshot%202025-05-16%20220831.png?raw=true" alt="Desktop 1" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/PC/Screenshot%202025-05-16%20220332.png?raw=true" alt="Desktop 2" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/PC/Screenshot%202025-05-16%20220431.png?raw=true" alt="Desktop 3" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/PC/Screenshot%202025-05-16%20220642.png?raw=true" alt="Desktop 4" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/PC/Screenshot%202025-05-16%20220624.png?raw=true" alt="Desktop 5" width="250"/></td>
+  </tr>
+</table>
 
 ---
+
+### 📱 Mobile View
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/Mobile/IMG-20250516-WA0022.jpg?raw=true" alt="Mobile 1" width="120"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/Mobile/IMG-20250516-WA0013.jpg?raw=true" alt="Mobile 2" width="120"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/Mobile/IMG-20250516-WA0016.jpg?raw=true" alt="Mobile 3" width="120"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/Mobile/IMG-20250516-WA0018.jpg?raw=true" alt="Mobile 4" width="120"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/MovieMania/Mobile/IMG-20250516-WA0021.jpg?raw=true" alt="Mobile 5" width="120"/></td>
+  </tr>
+</table>
 
 ## ⚙️ Local Setup
 
