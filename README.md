@@ -53,7 +53,12 @@ A full-stack Netflix-style streaming web app built with **React**, **Node.js**, 
 
 ## 📷 Screenshots
 
-> *(Add screenshots from both desktop and mobile views — include homepage, search, trailer popup, watchlist, OTP screen, etc.)*
+### 🖥️ Desktop View
+MovieMania/PC/Screenshot 2025-05-16 220831.png
+MovieMania/PC/Screenshot 2025-05-16 220332.png
+MovieMania/PC/Screenshot 2025-05-16 220431.png
+MovieMania/PC/Screenshot 2025-05-16 220753.png
+MovieMania/PC/Screenshot 2025-05-16 220624.png
 
 ---
 
