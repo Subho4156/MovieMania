@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.1.4",
     "axios": "^1.8.4",
     "lucide-react": "^0.503.0",
+    "project_4_netflixclone": "file:..",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.2",
