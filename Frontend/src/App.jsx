@@ -13,7 +13,7 @@ import SearchHistoryPage from "./pages/SearchHistoryPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import EmailVerificationPage from "./pages/EmailVerificationPage";
 import DashboardPage from "./pages/DashboardPage";
-import ForgotPasswordPage from "./pages/forgotPasswordPage";
+import ForgotPasswordPage from "./pages/ForgotPasswordPage";
 import ResetPasswordPage from "./pages/ResetPasswordPage";
 import ActorDetailsPage from "./pages/ActorDetailsPage";
 import WatchlistPage from "./pages/WatchlistPage";
