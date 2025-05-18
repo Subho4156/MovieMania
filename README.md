@@ -112,7 +112,7 @@ A full-stack Netflix-style streaming web app built with **React**, **Node.js**, 
 
    - Backend:
      ```bash
-     npm start
+     npm run dev
      ```
 
    - Frontend:
