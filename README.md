@@ -26,7 +26,7 @@ A full-stack Netflix-style streaming web app built with **React**, **Node.js**, 
 - **Database**: MongoDB + Mongoose  
 - **Authentication**: JWT + OTP Email Verification (Nodemailer)  
 - **External API**: [TMDB API](https://www.themoviedb.org/documentation/api)  
-- **Deployment**: Vercel (frontend), Railway/Render (backend), MongoDB Atlas (database)
+- **Deployment**: Render (Frontend + Backend), MongoDB Atlas (database)
 
 ---
 
